@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Computech",
-    description: "Site static de vente d'ordinateur et accessoire gaming",
+    description: "Site static devenu dynamique de vente d'ordinateur et accessoire gaming",
     image: "/images/projects/2.jpg",
     tag: ["All", "Web","Ecole"],
     gitUrl: "/",
