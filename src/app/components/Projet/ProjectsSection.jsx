@@ -11,7 +11,7 @@ const projectsData = [
     description: "Portfolio BTS SIO SLAM mais vous vous trouvez déja sur ce projet !",
     image: "/images/projects/1.jpg",
     tag: ["All", "Web","Ecole"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/PorteFolio",
     previewUrl: "/",
   },
   {
