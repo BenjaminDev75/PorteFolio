@@ -22,7 +22,7 @@ const achievementsList = [
   },
   {
     metric: "Certification",
-    value: "6",
+    value: "7",
   },
   {
     prefix: "",

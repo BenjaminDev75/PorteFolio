@@ -18,7 +18,7 @@ const projectsData = [
     id: 2,
     title: "Computech",
     description: "Site static de vente d'ordinateur et accessoire gaming",
-    image: "/images/projects/2.jpg",
+    image: "/images/projects/7.jpg",
     tag: ["All", "Web","Ecole"],
     gitUrl: "https://github.com/BenjaminDev75/Projet-HTML",
     previewUrl:"/"
@@ -28,7 +28,7 @@ const projectsData = [
     title: "Doc Installation GLPI sous Linux",
     description: "Fichier PDF d'une documentation pour l'installation de GLPI sous l'environnement Linux avec Ubuntu" +
         "dans une VirtualBox",
-    image: "/images/projects/3.jpg",
+    image: "/images/projects/6.jpg",
     tag: ["All", "Ecole"],
     gitUrl: "/images/Projet_GLPI.pdf",
     previewUrl: "/images/Projet_GLPI.pdf",
@@ -36,25 +36,28 @@ const projectsData = [
   {
     id: 4,
     title: "Ricosheep",
-    description: "Jeu labyrinthe ou l'objectif est de placer chaques moutons sur les hautes herbes",
-    image: "/images/projects/4.jpg",
+    description: "Projet de jeu labyrinthe ou l'objectif est de placer chaques moutons sur les hautes herbes, ce projet étais un projet de groupe réaliser pour le second semestre de Licence Maths-Informatique",
+    image: "/images/projects/5.jpg",
     tag: ["All", "Jeux","Ecole"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/Ricosheep",
     previewUrl: "/",
   },
   {
     id: 5,
-    title: "Project 5",
-    description: "Project 5 description",
-    image: "/images/projects/sui.jpg",
-    tag: ["All", "Perso"],
-    gitUrl: "/",
+    title: "Jeu Snake",
+    description: "Projet de jeu Snake en C dans le but etais de modifier les regles du jeu en modifant les règles du jeu : mettre en place un système de vitesses, "+
+                    "faire en sorte d'afficher 3 fruit à la fois, et de faire manger 3 fruit au serpent pour grandir d'un taille",
+    image: "/images/projects/8.jpg",
+    tag: ["All", "Jeux","Ecole"],
+    gitUrl: "https://github.com/BenjaminDev75/Snake-C",
     previewUrl: "/",
   },
   {
     id: 6,
-    title: "Project 6",
-    description: "Project 6 description",
+    title: "Developpement d'une application web d'un Planning",
+    description: "Planning destiner au chargé de planning pour la gestion des tournées pour chaque chauffeur, avec une vu sur les tournées de la semaine, "+
+    "pour chaque chauffeur, avec la possibilité de modifier les tournées, de les supprimer d'un jour, de les ajouter et de les déplacer avec un drag and drop"+
+    "le tout developper avec Logiciel Magic XPA et AngularJS",
     image: "/images/projects/sui.jpg",
     tag: ["All", "Pro"],
     gitUrl: "/",

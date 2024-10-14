@@ -91,10 +91,32 @@ const VeilleTechno = () => {
   };
 
   return (
-    <section id="veille">
+    <section id="veille" style={{ marginTop: '100px' }}>
+      
       <h2 className="text-center text-4xl font-bold text-white mt-4 mb-8 md:mb-12">
         Ma veille Technologique
       </h2>
+
+      <h2 className="text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]">
+      Émergence du Low-Code et Évolution des Langages de Programmation
+      </h2>
+      <p>
+      Cette veille technologique met en lumière les tendances et innovations récentes dans le 
+      monde du développement logiciel, avec une attention particulière portée à l'essor du Low-Code et à l'évolution des langages traditionnels tels que C et C++.
+      </p>
+      <br></br>
+      <p>
+      Le Low-Code est en train de transformer le paysage du développement logiciel, permettant aux entreprises de créer rapidement des applications grâce à des environnements 
+      de développement simplifiés. Des rapports indiquent que de plus en plus d'entreprises adoptent cette approche, considérée comme le futur du développement d'applications. 
+      De nombreux secteurs, y compris des leaders industriels, intègrent le Low-Code dans leurs stratégies de digitalisation pour accélérer leurs processus et optimiser leurs 
+      flux de données, comme le montre l'exemple de Magic Software chez King Jouet et Facnor / Sparcraft.
+      </p>
+      <br></br>
+      <p>
+      En parallèle, cette veille s'intéresse à la pérennité des langages de programmation traditionnels comme C et C++, qui, bien que toujours utilisés dans des secteurs spécifiques
+       tels que l'embarqué, voient leur avenir remis en question face à l'émergence de nouvelles alternatives comme Rust, un langage plus sécurisé et performant. L'impact de Rust et 
+       son adoption croissante démontrent une volonté du marché de privilégier des solutions plus modernes et robustes.
+      </p>
 
       
 
