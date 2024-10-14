@@ -83,7 +83,7 @@ const Navbar2 = () => {
                 <a href="#projects" className="cursor-pointer">
                   Projets
                 </a>
-                <a href="#projects" className="cursor-pointer">
+                <a href="#veille" className="cursor-pointer">
                   Veille Technologique
                 </a>
               </div>

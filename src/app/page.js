@@ -6,6 +6,7 @@ import ProjectsSection from "./components//Projet/ProjectsSection";
 import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
 import BTS from './components/BTS';
+import VeilleTechno from './components/Veille/ProjectsSection';
 
 export default function Home() {
     return (
@@ -18,6 +19,7 @@ export default function Home() {
                 <BTS/>
                 <Langage/>
                 <ProjectsSection />
+                <VeilleTechno />
             </div>
             <Footer />
         </main>

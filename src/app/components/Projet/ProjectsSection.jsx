@@ -17,10 +17,10 @@ const projectsData = [
   {
     id: 2,
     title: "Computech",
-    description: "Site static devenu dynamique de vente d'ordinateur et accessoire gaming",
+    description: "Site static de vente d'ordinateur et accessoire gaming",
     image: "/images/projects/2.jpg",
     tag: ["All", "Web","Ecole"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/Projet-HTML",
     previewUrl:"/"
   },
   {
@@ -30,8 +30,8 @@ const projectsData = [
         "dans une VirtualBox",
     image: "/images/projects/3.jpg",
     tag: ["All", "Ecole"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/images/Projet_GLPI.pdf",
+    previewUrl: "/images/Projet_GLPI.pdf",
   },
   {
     id: 4,
@@ -143,7 +143,6 @@ const ProjectsSection = () => {
               description={project.description}
               imgUrl={project.image}
               gitUrl={project.gitUrl}
-              previewUrl={project.previewUrl}
             />
           </motion.li>
         ))}
