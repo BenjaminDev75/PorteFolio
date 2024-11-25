@@ -10,7 +10,7 @@ const projectsData = [
     name: "Low-Code",
     description: "Most businesses now see low-code as the future",
     language: "Low-Code",
-    image: "/images/projects/veille1.jpg",
+    image: "/images/projects/Veille1.jpg",
     tag: ["Low-Code","All"],
     link: "https://www.msn.com/en-us/money/smallbusiness/most-businesses-now-see-low-code-as-the-future/ar-AA1s12I6?ocid=BingNewsVerp"
   },
@@ -19,7 +19,7 @@ const projectsData = [
     name: "Low-Code",
     description: "Low-code is everywhere and almost every company is using it",
     language: "Low-Code",
-    image: "/images/projects/veille2.jpg",
+    image: "/images/projects/Veille2.jpg",
     tag: ["Low-Code","All"],
     link: "https://www.techzine.eu/news/devops/125112/low-code-is-everywhere-and-almost-every-company-is-using-it/"
   },
@@ -28,7 +28,7 @@ const projectsData = [
     name: "C, C++",
     description: "Programmation : Le début de la fin a-t-il sonné pour les langages C et C++ ?",
     language: "C, C++, Rust, et autres",
-    image: "/images/projects/veille4.jpg",
+    image: "/images/projects/Veille4.jpg",
     tag: ["C, C++","All"],
     link: "https://www.zdnet.fr/actualites/programmation-le-debut-de-la-fin-a-t-il-sonne-pour-les-langages-c-et-c-39947568.htm"
   },
@@ -37,7 +37,7 @@ const projectsData = [
     name: "Swift",
     description: "Will There Be a New Dominant Programming Language by 2030?",
     language: "Swift",
-    image: "/images/projects/veille3.jpg",
+    image: "/images/projects/Veille3.jpg",
     tag: ["Swift","All"],
     link: "https://www.analyticsinsight.net/programming/will-there-be-a-new-dominant-programming-language-by-2030"
   },
@@ -46,7 +46,7 @@ const projectsData = [
     name: "Magic Sofware",
     description: "King Jouet industrialise ses flux de données avec Magic Software",
     language: "Autres",
-    image: "/images/projects/veille5.jpg",
+    image: "/images/projects/Veille5.jpg",
     tag: ["Autres","Low-Code","All"],
     link: "https://infodsi.com/articles/197224/king-jouet-industrialise-ses-flux-de-donnees-avec-magic-software.html"
   },
@@ -55,7 +55,7 @@ const projectsData = [
     name: "Magic Sofware",
     description: "Maîtrise des données et Système IT agile chez Facnor / Sparcraft avec Magic Software",
     language: "Autres",
-    image: "/images/projects/veille6.jpg",
+    image: "/images/projects/Veille6.jpg",
     tag: ["Autres","Low-Code","All"],
     link: "https://www.magicsoftware.com/fr/press-release/maitrise-des-donnees-et-systeme-it-agile-chez-facnor-sparcraft-avec-magic-software/"
   },
