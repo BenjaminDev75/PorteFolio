@@ -16,6 +16,11 @@ module.exports = {
     },
     colors: {
       ...colors,
+        sky: colors.sky, // au lieu de lightBlue
+        stone: colors.stone, // au lieu de warmGray
+        neutral: colors.neutral, // au lieu de trueGray
+        gray: colors.gray, // au lieu de coolGray
+        slate: colors.slate, // au lieu de blueGray
       primary: colors.purple,
       secondary: colors.pink,
     },
