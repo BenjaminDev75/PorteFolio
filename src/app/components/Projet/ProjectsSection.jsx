@@ -50,7 +50,7 @@ const projectsData = [
     image: "/images/projects/8.jpg",
     tag: ["All", "Jeux","Ecole"],
     gitUrl: "https://github.com/BenjaminDev75/Snake-C",
-    previewUrl: "/",
+    previewUrl: "/images/Projet_Snake.pdf",
   },
   {
     id: 6,
