@@ -68,7 +68,7 @@ const HeroSection = () => {
                 >
                     <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative" >
                         <Image
-                            src="/images/moi.jpg"
+                            src="/images/Media.png"
                             alt="image profil"
                             className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative"
                             width={300}
