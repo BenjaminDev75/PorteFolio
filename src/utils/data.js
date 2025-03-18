@@ -5,9 +5,9 @@ export const SKILLS = [
     skills: [
       { skill: "HTML5", percentage: "50%" },
       { skill: "CSS3", percentage: "50%" },
-      { skill: "JavaScript", percentage: "10%" },
+      { skill: "JavaScript", percentage: "15%" },
       { skill: "React.js", percentage: "20%" },
-      { skill: "AngularJS", percentage: "40%" }
+      { skill: "AngularJS", percentage: "45%" }
     ],
   },
   {
@@ -15,9 +15,9 @@ export const SKILLS = [
     icon: "backend-icon.png",
     skills: [
       { skill: "Python", percentage: "40%" },
-      { skill: "SQL", percentage: "30%" },
-      { skill: "Java", percentage: "20%" },
-      { skill: "PHP", percentage: "10%" },
+      { skill: "SQL", percentage: "35%" },
+      { skill: "Java", percentage: "25%" },
+      { skill: "PHP", percentage: "20%" },
       { skill: "Low Code", percentage: "30%" },
     ],
   },
@@ -25,11 +25,12 @@ export const SKILLS = [
     title: "Logiciels",
     icon: "tools-icon.png",
     skills: [
-      { skill: "Git & GitHub", percentage: "20%" },
+      { skill: "Git & GitHub", percentage: "30%" },
+      { skill: "Android Studio", percentage: "15%" },
       { skill: "Visual Studio Code", percentage: "60%" },
       { skill: "JetBrain Tools", percentage: "30%" },
       { skill: "Magic xpa", percentage: "40%" },
-      { skill: "Microsoft SQL Serveur Management Studio 18", percentage: "35%" },
+      { skill: "Microsoft SQL Serveur Management Studio 18 / 19 / 20", percentage: "35%" },
     ],
   },
   {
