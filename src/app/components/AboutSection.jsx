@@ -93,6 +93,7 @@ const TAB_DATA = [
         <ul className="list-disc pl-2">
           <li>Programme de visualisation de facture client avec le logiciel de programmation Magic XPA</li>
           <li>Application web d'un Planning pour la gestion de tournées de chauffeur avec Magic XPA et Angular 17</li>
+          <li>Application web pour de la recherche de document de facturation avec Magic XPA et Angular 17</li>
         </ul>
     )
   }
