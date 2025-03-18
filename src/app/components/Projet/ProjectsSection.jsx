@@ -69,7 +69,7 @@ const projectsData = [
                     +" pour la suppréssion l'ajout ou la modification d'un personnel, d'un projet, d'un don, et d'un pays. Chat-GPT, Blackbox, Microsoft-Copilot et GitHub-Copilot on été les IA utilisé lors de ce projet",
     image: "/images/projects/10.png",
     tag: ["All", "Ecole","Web"],
-    gitUrl: "/images/Shopify.pdf",
+    gitUrl: "/images/Gestion_Asso.pdf",
     previewUrl: "/images/Gestion_Asso.pdf",
   },
   {
@@ -102,7 +102,7 @@ const projectsData = [
         "le tout developper avec PHP / HTML / CSS / JS / MYSQL",
     image: "/images/projects/13.png",
     tag: ["All", "Ecole","Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/Snowly_Web.git",
     previewUrl: "/",
   },
   {
@@ -113,7 +113,7 @@ const projectsData = [
         "le tout developper avec Java / Swing / MYSQL",
     image: "/images/projects/14.png",
     tag: ["All", "Ecole"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/Snowly_Lourd.git",
     previewUrl: "/",
   },
   {
@@ -123,7 +123,7 @@ const projectsData = [
         "le tout developper avec Android Studio / Java / XML",
     image: "/images/projects/15.png",
     tag: ["All", "Ecole"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/BenjaminDev75/MySNCF2025.git",
     previewUrl: "/",
   },
 ];
